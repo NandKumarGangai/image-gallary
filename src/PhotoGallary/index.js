@@ -36,7 +36,7 @@ const PhotoGallary = () => {
 
       <div className="m-1">
         {isLoading ? (
-          <h1 className="" style={{ fontSize: '10rem' }}>
+          <h1 className="" style={{ fontSize: "10rem" }}>
             <i className="fa fa-spinner fa-pulse"></i>
           </h1>
         ) : (

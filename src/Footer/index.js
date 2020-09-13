@@ -25,22 +25,22 @@ const Footer = () => {
         <div className="social-connect">
           <ul className="social-icons">
             <li className="icon">
-              <a className="github" target="_blank" href="https://github.com/NandKumarGangai">
+              <a className="github" target="_blank" rel="noopener noreferrer" href="https://github.com/NandKumarGangai">
                 <i className="fa fa-github"></i>
               </a>
             </li>
             <li className="icon">
-              <a className="twitter" target="_blank" href="https://twitter.com/gangainandkumar">
+              <a className="twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/gangainandkumar">
                 <i className="fa fa-twitter"></i>
               </a>
             </li>
             <li className="icon">
-              <a className="codepen" target="_blank" href="https://codepen.io/nandkumar_gangai">
+              <a className="codepen" target="_blank" rel="noopener noreferrer" href="https://codepen.io/nandkumar_gangai">
                 <i className="fa fa-codepen"></i>
               </a>
             </li>
             <li className="icon">
-              <a className="linkedin" target="_blank" href="https://www.linkedin.com/in/nandkumar-gangai-910849123/">
+              <a className="linkedin" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nandkumar-gangai-910849123/">
                 <i className="fa fa-linkedin"></i>
               </a>
             </li>
