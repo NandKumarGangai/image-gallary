@@ -1,7 +1,7 @@
 # Image-Gallary
 This app is developed using **Pixabay** apis.
 
-Live: https://image-gallary96.herokuapp.com
+Live: https://image-gallary96.herokuapp.com (Not accessible)
 
 Tech stack:
 React JS
