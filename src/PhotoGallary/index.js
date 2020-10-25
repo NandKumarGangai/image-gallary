@@ -4,7 +4,7 @@ import ImageCard from "./ImageBox";
 import ImageSearch from "./ImageSearch";
 import "../assets/css/font-awesome.min.css";
 import "./style.css";
-const API_KEY = "17925693-c924acaf6b6f38b6d7fc56edd";
+const API_KEY = "17925693-c924acaf6b6f38b6d7fc56ed5656d";
 
 const PhotoGallary = () => {
   const [images, setImages] = useState([]);
